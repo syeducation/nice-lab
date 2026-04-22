@@ -3,14 +3,15 @@
 
 The most up to date list of publications from the NICE Research Group can be found in 
 [Dr. Syed's CV](https://docs.google.com/document/d/1eGtccGz_RVpnvEiyWyq9joM6RvCOx8ukquzd2v45b3o/edit?tab=t.0),
-or his [Google Scholar page](https://scholar.google.com/citations?user=mshMvCwAAAAJ&hl=en). 
-[This link will provide the Google Scholar profile sorted by year, to get a sense of recent work](https://scholar.google.com/citations?hl=en&user=mshMvCwAAAAJ&view_op=list_works&sortby=pubdate). 
+or his [Google Scholar page](https://scholar.google.com/citations?user=mshMvCwAAAAJ&hl=en).
+Alternatively, 
+[follow this link for the Google Scholar profile sorted by year, to get a sense of recent work](https://scholar.google.com/citations?hl=en&user=mshMvCwAAAAJ&view_op=list_works&sortby=pubdate). 
 
 Below is a sampling of recent publications and preprints (+indicates a student or postdoc at the time of writing):
 
 Ajayi, A. A., *Delgado, J. E., Suarez Bonilla, G., & Syed, M. (in press). Evaluating the Color-Blind Racial Attitudes Scale using item response theory. Journal of Counseling Psychology. 
 
-+Chou, E., +Hedrick, N., +Westberg, D. W., +Udochi, A. L., +Rogers, M. A., Holtzman, N. S., Syed., M., & DeYoung, C. G. (in press). Life narratives and the ten aspects of the Big Five. Journal of Personality. https://psyarxiv.com/wnqru/ 
++Chou, E., +Hedrick, N., +Westberg, D. W., +Udochi, A. L., +Rogers, M. A., Holtzman, N. S., Syed., M., & DeYoung, C. G. (in press). Life narratives and the ten aspects of the Big Five. Journal of Personality. <https://psyarxiv.com/wnqru/> 
 
 Frankenhuis, W. E., & Syed, M. (in press). Registered Reports in Animal Biology: A new format. Animal Biology. https://doi.org/10.1163/15707563-bja10176 
 
