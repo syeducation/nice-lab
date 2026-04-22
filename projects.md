@@ -1,10 +1,11 @@
-# Current Projects {-}
+# Current Projects
+-------------------------
 
 We are launching, completing, and abandoning a large number of projects on a regular basis. Current projects are driven by research group members' interests, and draw heavily from the volumes of existing day collected by the group and available elsewhere. 
 
 Our substantive research focuses on identity and personality development among adolescents, emerging adults, and adults from diverse racial, ethnic, and immigration backgrounds. 
 
-## Promoting Open Science Practices {-}
+## Promoting Open Science Practices
 
 It is well known that psychology is ensconced in an ongoing replication crisis and open science movement. Accordingly, I have devoted considerable time to engaging in methodological work aimed at increasing the rigor of how we conduct our science. Much of this work takes an educational/outreach approach, targeted to early career researchers or those seeking to become familiar with open science practices and how they can be implemented. This includes a focus on open science broadly (Kathawalla et al., 2021), the relevance of open science for specific subject areas (Syed, 2020), and efforts to correct misinformation and mistaken impressions about open science (Syed, 2024). Much of my work in this area has focused on promoting Registered Reports, a new publishing model that seeks to reduce publication bias and increase the confidence in published results (Syed et al., 2023). 
 
@@ -16,7 +17,7 @@ Syed, M. (2024). Three persistent myths about open science. Journal of Trial & E
 
 Syed, M., Frank, M. C., & Roisman, G. I. (2023). Registered Reports in Child Development: Introduction to the Special Section. Child Development, 94(5), 1093-1101. 10.1111/cdev.14003
 
-## Best Practices for Diverse Methodologies {-}
+## Best Practices for Diverse Methodologies
 
 My interest in promoting methodological rigor has also been applied to specific methodologies. Although these efforts are not rooted in open science, per se, the work is inspired by the fundamental motivation of the open science movement to improve our science. Much of this work takes the form of tutorials and primers to help researchers in psychology better understand diverse methodologies, particularly those that involve working with qualitative data (i.e., open-ended, text data). These methodologies includes those that seek to bring greater connection between individual psychological experiences and broader societal power structures (Syed & McLean, 2023), digital storytelling methods that reflect deep community engagement (Fish & Syed, 2021), and narratives methods broadly (Adler et al., 2017) as well as the specific issue of establishing interrater reliability (Syed & Nelson, 2015). 
 
@@ -28,7 +29,7 @@ Syed, M., & McLean, K. C. (2023). Master narrative methodology: A primer for con
 
 Syed, M., & Nelson, S. C. (2015). Guidelines for establishing reliability when coding narrative data. Emerging Adulthood, 3(6), 375-387. 10.1177/2167696815587648
 
-## Reform in Research Assessment {-}
+## Reform in Research Assessment
 
 My involvement with the open science movement, along with my extensive experience as a journal editor and as a departmental administrator, have led to specific interest in reforming how we conduct research assessment. My work in this area includes questions about what counts in research assessment—that is, the specific products that are considered in evaluation—with a particular focus on preprints (Moshontz et al., 2021; Syed, 2024), as well as the subjective value we place on different forms of scholarship (McLean & Syed, 2022). Working in the area also requires engagement with journal editors and publishers, and I am the senior author on a major collaborative paper on how journal editors can implement open science practices at their journals (Silverstein et al., 2024). 
 
@@ -40,7 +41,7 @@ Silverstein, P., Elman, C., Montoya, A. K., McGillivray, B., Pennington, C. R., 
 
 Syed, M. (2024). Valuing preprints must be part of responsible research assessment. Meta-Psychology, 8, 1-4. 10.15626/MP.2023.3758
 
-## Educational Equity among Under-represented Racial/Ethnic Minority Students {-}
+## Educational Equity among Under-represented Racial/Ethnic Minority Students
 
 A long-standing area of my research focus has been on the educational experiences of ethnic minority high school and college students, particularly in the context of science, technology, engineering, and mathematics (STEM). Much of our work in this area has focused on the role of science identity and self-efficacy (Syed et al., 2021), as well as mentoring (Syed et al., 2012), for understanding persistence in STEM. My students and I have also developed models that center the social context at multiple levels of analysis, for ethnic minority students in general (Ajayi et al., 2021) and for Native Americans specifically (Fish & Syed, 2018). 
 
@@ -52,7 +53,7 @@ Syed, M., Goza, B. K., Chemers, M. M., & Zurbriggen, E. (2012). Individual diffe
 
 Syed, M., Zurbriggen, E., Chemers, M. M., Goza, B. K., Bearman, S., Crosby, F., Shaw, J. M., Hunter, L., & Morgan, E. M. (2019). The role of self-efficacy and identity in mediating the effects of STEM support experiences. Analysis of Social Issues and Public Policy, 19(1), 7-49. 10.1111/asap.12170
 
-## Master Narratives, Identity, and Psychological Adjustment {-}
+## Master Narratives, Identity, and Psychological Adjustment
 
 Master narratives are culturally shared stories that serve as templates, or scripts, that guide individuals’ thought, feelings, and actions. Psychologists have traditionally focused on individuals’ personal narratives, the stories they tell about their lives, but have largely done so without attention to broader social structures. My colleague Kate McLean and I developed an initial theoretical model (McLean & Syed, 2015) to guide research on this topic, which was then broadened to engage with concepts in cognitive psychology (McLean et al., 2023) and positive psychology (Syed & McLean, 2022). Much of our empirical work has focused on the context of gender (McLean et al., 2020), although we have also conducted several studies focused on immigration and race/ethnicity, with our more recent projects examining links to psychological adjustment. 
 
@@ -64,7 +65,7 @@ McLean, K. C., Pasupathi, M., & Syed., M. (2023). Cognitive scripts and narrativ
 
 Syed, M., & McLean, K. C. (2022). Who gets to live the good life? Master narratives, identity, and well-being within a marginalizing society. Journal of Research in Personality, 100, 1-7. 10.1016/j.jrp.2022.104285
 
-## Development of Racial/Ethnic Identity {-}
+## Development of Racial/Ethnic Identity
 
 Ethnic/racial identity refers to the degree to which individuals identify as a member of their ethnic/racial groups. Whereas historically ethnicity/race was viewed as a static category through which to understand diverse youth, over the last two decades there has been an increased understanding of ethnic/racial identity as an individual differences factor that has important implications for youth development, especially those from ethnic/racial minority backgrounds. My work in this area has focused on documenting that ethnic/racial identity continuous to develop into adulthood (Zhou et al., 2019), summarizing the links to positive psychological functioning using meta-analysis (Rivas-Drake et al., 2014), and demonstrating how the role of parents, peers, and social context modulate levels and correlates of ethnic/racial identity (Mitchell et al., 2018l Nelson et al., 2018).
 
@@ -76,7 +77,7 @@ Rivas-Drake, D., Syed, M., Umaña-Taylor, A. J., Markstrom, C., French, S., Schw
 
 Zhou, X., Lee, R. M., & Syed, M. (2019). Ethnic identity developmental trajectories during the transition to college. Developmental Psychology, 55(1), 157-169. doi/10.1037/dev0000634
 
-## Discrimination and Psychological Adjustment {-}
+## Discrimination and Psychological Adjustment
 
 Experiences of discrimination and their links to well-being and psychological distress have long been studied. My work in this area has sought to expand the focus on this research in several ways, including a stronger consideration of social context (Syed & Juan, 2012), expanding focus to under-studied regions such as Sweden (Gyberg et al., 2021), and comparing discrimination to other life stressors (Kathawalla & Syed, 2021). I have also been heavily invested in understanding the nature and consequences of microaggressions, seeking to resolved ongoing debates on the topic (Syed, 2021). 
 
@@ -88,13 +89,13 @@ Syed, M. (2021). The logic of microaggressions assumes a racist society. Perspec
 
 Syed, M., & Juan, M. J. D. (2012). Discrimination and psychological distress: Examining the moderating role of social context in a nationally representative sample of Asian American adults. Asian American Journal of Psychology, 3(2), 104-120. 10.1037/a0025275
 
-## The Gothenburg Research Program on Ethnicity {-}
+## The Gothenburg Research Program on Ethnicity 
 
 Two specific studies
 
 Funded by Stena
 
-## The Gothenburg Longitudinal Study of Development (GoLD) {-}
+## The Gothenburg Longitudinal Study of Development (GoLD) 
 
 A longitudinal study.
 
