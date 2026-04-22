@@ -1,9 +1,14 @@
 theme: jekyll-theme-minimal
 title: NICE Research Group
 description: Homepage for the NICE Research Group
-show_downloads: True
+show_downloads: False
 navigation:
   - title: Home
     url: /
   - title: People
     url: people
+  - title: Projects
+    url: projects
+  - title: Publications
+  - title: Resources
+  - title: Prospective Students
