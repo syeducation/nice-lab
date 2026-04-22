@@ -8,8 +8,8 @@ layout: default
 The NICE Research Group is a collection of researchers in the Department of Psychology
 at the University of Minnesota.
 
-The primary emphasis of the NICE Research Group is on metascientific issues in psychology
-and the sciences more broadly. This theoretical, methodological, and historical issues, 
+The primary emphasis of the NICE Research Group is on metascientific issues in psychology. 
+This includes theoretical, methodological, and historical issues, 
 as well as scientific reform and open science. 
 
 NICE was originally an acronym that stood for Narrative, Identity, Culture, and Education. 
@@ -24,11 +24,11 @@ Below are a few of our recent publications that we are excited about!
 
 Frisén, A., Wängqvist, M., Carlsson, J., Eriksson, P. L., +Larsson, H., & Syed, M. (in press). The GoLDen method: Venturing a long-longitudinal mixed methods study of identity development. *Identity*. <https://doi.org/10.1080/15283488.2026.2650528> 
 
-Syed, M. (in press). Psychology wants to stay WEIRD, not go WILD. Behavioral and Brain Sciences. <https://osf.io/preprints/psyarxiv/bxk6c_v1> 
+Syed, M. (in press). Psychology wants to stay WEIRD, not go WILD. *Behavioral and Brain Sciences*. <https://osf.io/preprints/psyarxiv/bxk6c_v1> 
 
 Syed, M. (in press). Some data indicating that editors and reviewers do not check preregistrations during the review process. *Journal of Trial & Error*. <https://doi.org/10.36850/e5ce-4cc5> 
 
-Carlsson, J., Wängqvist, M, Syed, M., & Frisén, A. (2026). Lost in translation: The conceptual drift from the identity status interview to questionnaire measures. *J*ournal of Adult Development, 33*, 1–19. <https://doi.org/10.1007/s10804-024-09506-6> 
+Carlsson, J., Wängqvist, M, Syed, M., & Frisén, A. (2026). Lost in translation: The conceptual drift from the identity status interview to questionnaire measures. *Journal of Adult Development, 33*, 1–19. <https://doi.org/10.1007/s10804-024-09506-6> 
 
 Syed, M., & Frankenhuis, W. E. (2026). Improving research on developmental psychopathology with Registered Reports. *Development and Psychopathology, 38*(2), 574-581. <https://doi.org/10.1017/S0954579425100552> 
 
