@@ -1,7 +1,6 @@
 theme: jekyll-theme-minimal
 title: NICE Research Group
-description: Homepage for the NICE Research Group, University of Minnesota, 
-directed by Dr. Moin Syed
+description: Homepage for the NICE Research Group, University of Minnesota, directed by Dr. Moin Syed
 show_downloads: False
 navigation:
   - title: Home
